@@ -3,7 +3,7 @@
 
 ## Deskripsi Proyek
 
-"ScreenScore" adalah sebuah aplikasi backend yang menyediakan layanan untuk menangani informasi terkait film, ulasan, genre, pemain, dan karakter. Aplikasi ini memungkinkan pengguna untuk melihat daftar film, menambahkan ulasan, melihat ulasan film, dan melakukan berbagai operasi CRUD terkait data film, genre, pemain, dan karakter.
+"Socibersh Marketplace Kosmetik adalah destinasi online yang menyajikan berbagai produk kecantikan terbaik dari berbagai merek terkemuka. Dari skincare hingga makeup, Socibersh menyediakan beragam produk kosmetik berkualitas untuk memenuhi kebutuhan perawatan kecantikan Anda. Dengan koleksi yang luas dan beragam, serta fitur-fitur seperti ulasan pelanggan, rekomendasi produk, dan kemudahan pembayaran, Socibersh memastikan pengalaman berbelanja kosmetik yang menyenangkan dan memuaskan. Temukan produk-produk terbaru dan favorit Anda, serta temukan kecantikan yang sesuai dengan gaya dan preferensi Anda di Socibersh Marketplace Kosmetik."
 
 ## Kelompok Kerja
 - Ikhsan Fauzan
