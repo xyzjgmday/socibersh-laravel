@@ -2,7 +2,7 @@
 
 return [
     'title_home' => 'Home',
-    'descr_home' => 'Food Supplements Shop',
+    'descr_home' => 'The #1 Most Complete & Trusted Cosmetics Site in Indonesia',
     'title_products' => 'Products',
     'descr_products' => 'Products of proven quality',
     'title_contacts' => 'Contacts',

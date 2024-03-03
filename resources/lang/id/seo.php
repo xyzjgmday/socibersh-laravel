@@ -2,7 +2,7 @@
 
 return [
     'title_home' => 'Beranda',
-    'descr_home' => 'Toko suplemen makanan',
+    'descr_home' => 'Situs Kosmetik Terlengkap & Terpercaya #1 di Indonesia',
     'title_products' => 'Produk',
     'descr_products' => 'Produk dengan kualitas terbukti',
     'title_contacts' => 'Kontak',
