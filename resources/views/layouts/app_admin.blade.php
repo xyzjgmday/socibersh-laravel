@@ -147,11 +147,12 @@
     <script src="{{ asset('js/bootbox.min.js') }}"></script>
     <script src="{{ asset('js/mdb.min.js') }}"></script>
     <script>
+        var domainUrl = window.location.origin;
         var urls = {
-            removeGalleryImage: "{{ url('admin/removeGalleryImage') }}",
-            editCategory: "{{ lang_url('admin/categories') }}",
-            deleteCategories: "{{ lang_url('admin/delete/categories') }}",
-            changeStatus: "{{ lang_url('admin/changeOrderStatus') }}"
+            removeGalleryImage: domainUrl + "/admin/removeGalleryImage",
+            editCategory: domainUrl + "/admin/categories",
+            deleteCategories: domainUrl + "/admin/delete/categories",
+            changeStatus: domainUrl + "/admin/changeOrderStatus"
         };
         var langs = {
             selectOnlyOneCateg: "{{__('admin_pages.select_only_one_category')}}",
