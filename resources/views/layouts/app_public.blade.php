@@ -209,11 +209,11 @@
     <script>
         var domainUrl = window.location.origin;
         var urls = {
-            addProduct: domainUrl + "addProduct",
-            removeProductQuantity: domainUrl + "removeProductQuantity",
-            getProducts: domainUrl + "getGartProducts",
-            getProductsForCheckoutPage: domainUrl + "getProductsForCheckoutPage",
-            removeProduct: domainUrl + "removeProduct"
+            addProduct: domainUrl + "/addProduct",
+            removeProductQuantity: domainUrl + "/removeProductQuantity",
+            getProducts: domainUrl + "/getGartProducts",
+            getProductsForCheckoutPage: domainUrl + "/getProductsForCheckoutPage",
+            removeProduct: domainUrl + "/removeProduct"
         };
         var variables = {
             addressReq: "{{__('public_pages.address_field_req')}}",
