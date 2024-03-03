@@ -3,7 +3,7 @@
 
 ## Deskripsi Proyek
 
-"Socibersh Marketplace Kosmetik adalah destinasi online yang menyajikan berbagai produk kecantikan terbaik dari berbagai merek terkemuka. Dari skincare hingga makeup, Socibersh menyediakan beragam produk kosmetik berkualitas untuk memenuhi kebutuhan perawatan kecantikan Anda. Dengan koleksi yang luas dan beragam, serta fitur-fitur seperti ulasan pelanggan, rekomendasi produk, dan kemudahan pembayaran, Socibersh memastikan pengalaman berbelanja kosmetik yang menyenangkan dan memuaskan. Temukan produk-produk terbaru dan favorit Anda, serta temukan kecantikan yang sesuai dengan gaya dan preferensi Anda di Socibersh Marketplace Kosmetik."
+"Socibersh Marketplace Kosmetik adalah destinasi online yang menyajikan berbagai produk kecantikan terbaik dari berbagai merek terkemuka. Dari skincare hingga makeup, Socibersh menyediakan beragam produk kosmetik berkualitas untuk memenuhi kebutuhan perawatan kecantikan Anda. Dengan koleksi yang luas dan beragam, serta fitur-fitur seperti rekomendasi produk, dan kemudahan pembayaran, Socibersh memastikan pengalaman berbelanja kosmetik yang menyenangkan dan memuaskan. Temukan produk-produk terbaru dan favorit Anda, serta temukan kecantikan yang sesuai dengan gaya dan preferensi Anda di Socibersh Marketplace Kosmetik."
 
 ## Kelompok Kerja
 - Ikhsan Fauzan
