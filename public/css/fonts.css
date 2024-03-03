@@ -1,0 +1,31 @@
+@font-face {
+  font-family: brandontext-regular;
+  src: url(/fonts/brandontext-regular-webfont.woff);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: brandontext-medium;
+  src: url(/fonts/brandontext-medium-webfont.woff);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: brandontext-light;
+  src: url(/fonts/brandontext-light-webfont.woff);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: brandontext-bold;
+  src: url(/fonts/brandontext-bold-webfont.woff);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
